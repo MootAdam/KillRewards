@@ -1,6 +1,6 @@
 <?php
 
-namespace KillRewards;
+namespace killRewards;
 
 use onebone\economyapi\EconomyAPI;
 use pocketmine\command\CommandSender;
