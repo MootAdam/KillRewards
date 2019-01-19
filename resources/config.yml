@@ -1,0 +1,17 @@
+points:
+  # This is the amount of Points taken from the Player when they die.
+  remove: "10"
+  # This is the amount of Points Added to the Killer of the Player.
+  add: "10"
+
+ ##!!!!!Broadcasts have the {points} for Points gained or Lost depending on the player. And {player} for the Players name.!!!!!!##
+
+# The World that the Points System Will run in!
+World: "world"
+
+# These are the Broadcasts for the players that are killed or Killers!
+Broadcast:
+  # If set to true then this plugin will broadcast to entire server! if false then will not Broadcast!
+  Broadcast: true
+  # This is the Broadcast for the Players that were Killed
+  BroadcastMessage: "{killer} killed {dead} and got {add} Points while {dead} lost {subtract} Points"
