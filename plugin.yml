@@ -1,5 +1,5 @@
 name: KillRewards
-main: killrewards\Kill
+main: killrewards\kill
 version: 1.0
 api: 3.5.1
 author: SaltyPixelDevz
