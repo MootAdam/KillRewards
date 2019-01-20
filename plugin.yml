@@ -1,8 +1,0 @@
-name: KillRewards
-main: killrewards\kill.php
-version: 1.0
-api: 3.5.1
-author: SaltyPixelDevz
-commands:
-  mypoints:
-    description: "Tells you how Many Points you Have!"
