@@ -1,7 +1,7 @@
 name: Killrewards
 main: killreward/kill.php
 version: 1.0
-api-version: 3.0.0
+api: 3.0.0
 author: SaltyPixelDevz
 commands:
   mypoints:
