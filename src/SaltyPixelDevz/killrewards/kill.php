@@ -1,6 +1,6 @@
 <?php
 
-namespace SaltyPixelDevz\killRewards;
+namespace SaltyPixelDevz\killrewards;
 
 use onebone\economyapi\EconomyAPI;
 use pocketmine\command\CommandSender;
