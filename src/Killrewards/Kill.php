@@ -15,7 +15,7 @@ use pocketmine\Server;
 use pocketmine\utils\Config;
 use pocketmine\utils\Utils;
 
-class kill extends PluginBase implements Listener
+class Kill extends PluginBase implements Listener
 {
 
     public function onEnable()
