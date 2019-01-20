@@ -1,5 +1,5 @@
 name: Killrewards
-main: killreward/kill.php
+main: killreward/kill
 version: 1.0
 api: 3.0.0
 author: SaltyPixelDevz
